@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelloWorld1.App
+namespace HelloWorld1.Lib
 {
-    class Greeter
+    public class Greeter
     {
         public string GetGreeting(string personName)
         {
